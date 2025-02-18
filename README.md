@@ -27,7 +27,7 @@ badge: "W1Yf8OCvAt******************1dvbLQjiTdQSQ4="
 
 badge密钥实际上就是延河课堂的cookies，在浏览器中打开开发者模式，使用F12打开网络选项，随意向艾比特提出一个问题，在响应中寻找cookies的条目。
 
-![badge密钥](images/1.png)
+![badge密钥](images/pic1.png)
 
 
 ## 脚本说明
